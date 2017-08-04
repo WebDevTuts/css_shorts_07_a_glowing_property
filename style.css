@@ -38,6 +38,9 @@ h1 {
     ;
 }
 
+.neon_box {
+  box-shadow: 0 0 5px #fff;
+}
 
 
 
