@@ -41,7 +41,9 @@ h1 {
 .neon_box {
   box-shadow:
     0 0 5px #fff,
-    inset 0 0 5px #fff
+    inset 0 0 5px #fff,
+    0 0 20px #ff00de,
+    inset 0 0 20px #ff00de
     ;
 }
 
