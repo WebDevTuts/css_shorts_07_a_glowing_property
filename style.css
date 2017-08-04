@@ -43,7 +43,9 @@ h1 {
     0 0 5px #fff,
     inset 0 0 5px #fff,
     0 0 20px #ff00de,
-    inset 0 0 20px #ff00de
+    inset 0 0 20px #ff00de,
+    0 0 20px 2px #ff00de,
+    inset 0 0 20px 2px #ff00de
     ;
 }
 
